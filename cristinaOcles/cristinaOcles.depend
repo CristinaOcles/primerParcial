@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526924614 source:d:\cris\desktop\cris facu\primerparcial-master\cristinaocles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
